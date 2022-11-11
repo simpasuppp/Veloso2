@@ -1,0 +1,277 @@
+																/*<--!This is my Home-->*/
+#pag1{
+	font-size: 400%;
+	color: antiquewhite;
+	font-family: Courier new, monospace;
+	margin-left: 15%;
+	margin-top: 5%;
+}
+	#pag1{
+	background-color: #3e4444;
+	margin-right: 50%;
+	}
+
+#pag5{
+	font-size: 400%;
+	color: antiquewhite;
+	font-family: Courier New, monospace;
+	margin-left: 15%;
+}
+
+	#pag5{
+	background-color: #3e4444;
+	margin-right: 38%;
+	}
+
+#pag6 {
+	font-size: 400%;
+	color: antiquewhite;
+	font-family: Courier New, monospace;
+	margin-left: 15%;
+}
+
+	#pag6{
+	background-color: #3e4444;
+	margin-right: 60%;
+	}													
+																				/*Image*/
+.picture1{
+	/*margin-top: 5%;*/
+	margin-left: 12%;
+	width: 1050px;
+	height: 30px;
+	/*border-image-slice: 20%*/
+}
+
+.picture2{
+	margin-top: 5%;
+	margin-left: 12%;
+	width: 100px;
+	height: 350px;
+	border-image-slice: 20%
+}
+
+#body1 { 
+	background-image: url('h.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 1366px  768px;
+}
+
+														/*<!--This is Elementary Days-->*/
+
+														/*<!--My paragraph for Elementary Days-->*/
+	#pag2 { 
+
+	font-size: 150%;
+	color: #563f46;
+	font-family: times new roman, serif; 
+	text-align: justify;
+	margin: 0 auto;
+	margin-left: 7%;
+	margin-right: 4%;
+	background-color: #8d9db6;
+}
+
+	.audio1{
+		margin-top: 4%;
+
+	}
+
+																	/*background elem*/
+#body2 {
+	background-image: url('i.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 1366px  768px;
+	padding: 1%;
+}
+
+#img1{
+	margin-top: 5%;
+	margin-left: 12%;
+	width: 1050px;
+	height: 350px;
+	border-image-slice: 20%
+}
+
+#img4{
+	margin-top: 0.5%;
+	width: 14.8%;
+	margin-left: 0.5%;
+	float: left ;
+}
+														/*<!--This my Junior Highschool Days-->*/
+
+ 														/*<!--My paragraph for JHS Days-->*/
+	.pag3 {
+
+	font-size: 140%;
+	color: white;
+	font-family: times new roman, serif;
+	text-align: justify;
+	margin: 0 auto;
+	/*background-color: lavender;*/
+	margin-right: 5%;
+	margin-left: 9%;
+	background-color: #8d9db6;
+	/*background-image: url('img/b.jpg');*/
+	/*background-size: 600px 300px*/
+}
+
+	.audio2{
+		margin-top: 4%;
+	}
+
+#body3{
+	background-image: url('a.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 1366px  768px;
+	padding: 1%;
+
+}
+
+#img2 {
+	margin-top: 5%;
+	margin-left: 12%;
+	width: 1050px;
+	height: 370px;
+	border-image-slice: 20%;
+}
+
+.img5{
+	margin-top: 0.4%;
+	width: 18.5%;
+	margin-left: 0.5%;
+	float: left ;
+}
+											/*<!--This is my Senior Highschool Days-->*/
+
+															/*<!--My paragraph for SHS Days-->*/
+	#pag4 { 												
+
+	font-size: 180%;
+	color: #A52A2A;
+	font-family: times new roman, serif;
+	text-align: justify;
+	/*margin: 65px;*/
+	margin-left: 9.5%;
+	margin-right: 6%;
+	background-color: #dbceb0;
+}
+	.audio3{
+		margin-top: 4%;
+	}
+
+#img3{
+	margin-top: 5%;
+	margin-left: 12%;
+	width: 1050px;
+	height: 370px;
+	border-image-slice: 20%;
+
+}
+
+.img6{
+	margin-top: 0.5%;
+	width: 18%;
+	margin-left: 0.5%;
+	float: left ;
+}
+
+																	/*background shs*/
+#body4{
+	background-image: url('c.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 1366px  768px;
+	padding: 1%;
+}
+
+																
+
+																	/*about*/
+.pag7{
+	font-size: 120%;
+	color: #3b3a30;
+	font-family: times new roman, serif;
+	text-align: justify;
+	margin-left: 5%;
+	margin-right: 5%;
+	background-color: #8d9db6;
+}
+
+.pag8{
+	font-size: 120%;
+	color:  #587e76;
+	font-family: times new roman, serif;
+	text-align: justify;
+	margin-left: 5%;
+	margin-right: 46%;
+	/*margin-right: 5%;*/
+	background-color: #a2b9bc;
+}
+
+table, th, tr{
+	border: 3px solid black;
+	border-radius: 15px;
+	margin: 0 auto;
+	background-color: #8d9db6;
+	padding: 10px;
+	text-align: center;
+	margin-bottom: 5%;
+	color: #3b3a30;
+}
+		
+						
+														/*Hobbies*/
+
+caption{
+	font-size: 150%;
+	border: 3px solid black;
+	border-radius: 15px;
+	margin-left: center;
+	background-color: #8d9db6;
+	padding: 8px;
+ 	color: #3b3a30;
+}
+
+a {
+	color: #587e76;
+
+}
+
+#body5{
+	background-image: url('j.jpg');
+	background-repeat: no-repeat;
+	background-size: 1366px  768px;
+	background-attachment: fixed;
+}					
+
+nav {
+		display: flex;
+		flex-wrap: wrap;
+}
+
+nav a{
+		text-decoration: none;
+		display: block;
+		padding: 15px;
+		text-align: center;
+		color: black;
+		margin-top: 3%;
+		font-family: times new roman, serif;
+		font-size: 120%;
+		width: 17.5%;
+		background-color: #C0C0C0;
+		margin-left: 0.2%;
+}
+
+nav a:hover{
+		background-color: #2F4F4F; 
+
+}
+																
+																
+																
